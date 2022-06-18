@@ -3,7 +3,8 @@ import numpy as np
 import numpy as np
 
 def random_predict(number:int=1) -> int:
-    """Рандомно угадываем число
+    """Угадываем число путем сужения диапазона его поиска в завиимости 
+        от его значения относительно предсказанного числа
 
     Args:
         number (int, optional): Загаданное число. Defaults to 1.
@@ -13,11 +14,15 @@ def random_predict(number:int=1) -> int:
     """
 
     count = 0
-
+    predict_number = 50 # задаем предполагаемое число
+    
     while True:
         count += 1
-        predict_number = np.random.randint(1, 101) # предполагаемое число
-        if number == predict_number:
+        if number > predict_number:
+            predict_number = np.random.randint(predict_number,number+1)
+        elif number < predict_number:
+            predict_number = np.random.randint(number,predict_number) 
+        else:
             break # выход из цикла, если угадали
     return(count)
 
