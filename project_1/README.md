@@ -1,12 +1,12 @@
 # Проект 1. Анализ вакансий из HeadHunter 
 
 ## Оглавление
-[1. Описание проекта](https://github.com/justa1ejandro/sf_data_science/tree/main/project_0/README.md#Описание-проекта)
-[2. Какой кейс решаем?](https://github.com/justa1ejandro/sf_data_science/tree/main/project_0/README.md#Какой-кейс-решаем?)
-[3. Краткая информация о данных](https://github.com/justa1ejandro/sf_data_science/tree/main/project_0/README.md#Краткая-информация-о-данных)
-[4. Этапы работы над проектом](https://github.com/justa1ejandro/sf_data_science/tree/main/project_0/README.md#Этапы-работы-над-проектом)
-[5. Резкльтаты](https://github.com/justa1ejandro/sf_data_science/tree/main/project_0/README.md#Резкльтаты)
-[6. Выводы](https://github.com/justa1ejandro/sf_data_science/tree/main/project_0/README.md#Выводы)
+[1. Описание проекта](https://github.com/justa1ejandro/sf_data_science/tree/main/project_1/README.md#Описание-проекта)
+[2. Какой кейс решаем?](https://github.com/justa1ejandro/sf_data_science/tree/main/project_1/README.md#Какой-кейс-решаем?)
+[3. Краткая информация о данных](https://github.com/justa1ejandro/sf_data_science/tree/main/project_1/README.md#Краткая-информация-о-данных)
+[4. Этапы работы над проектом](https://github.com/justa1ejandro/sf_data_science/tree/main/project_1/README.md#Этапы-работы-над-проектом)
+[5. Резкльтаты](https://github.com/justa1ejandro/sf_data_science/tree/main/project_1/README.md#Резкльтаты)
+[6. Выводы](https://github.com/justa1ejandro/sf_data_science/tree/main/project_1/README.md#Выводы)
 
 
 ### Описание проекта
