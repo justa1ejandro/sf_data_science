@@ -1,4 +1,4 @@
-# Проект 1. Анализ вакансий из HeadHunter 
+# Итоговый проект первого года обучения
 
 ## Оглавление
 [1. Описание проекта](https://github.com/justa1ejandro/sf_data_science/tree/main/final_work/README.md#Описание-проекта)
